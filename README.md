@@ -75,6 +75,8 @@ SHARED_KEY = 'letmein1337'
 ```
 Update `HOST` in `client_boot.py` to your actual IP (or automate it via `serve_invite.py`).
 
+![ShowOff](./showoff.png)
+
 ---
 
 ## 🔐 Security Tips
